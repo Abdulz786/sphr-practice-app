@@ -1,0 +1,176 @@
+{
+  "version": 4,
+  "saved_at": "2026-03-01T18:50:28.323702+00:00",
+  "user": "Guest",
+  "mode": "Practice",
+  "settings": {
+    "num_q": 5,
+    "sec_per_q": 20,
+    "quiz_time": 300,
+    "shuffle_options": false,
+    "show_hints": false,
+    "smooth_timer": true,
+    "refresh_ms": 1000,
+    "show_correct": true,
+    "show_exp": true,
+    "auto_advance": false,
+    "play_sounds": false
+  },
+  "current_quiz": [
+    {
+      "id": 35,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Your company is downsizing as they have lost a large contract to a competitor. This requires you to lay off a number of employees. Some of those being laid off will need to transfer their knowledge of what they do to the remaining workforce. Which of the following is the best strategy to ensure a smooth transition?",
+      "options": [
+        "A. Hold a series of town hall meetings to ask for support.",
+        "B. Add a cooperation clause into the severance agreements.",
+        "C. Offer stay bonuses.",
+        "D. Ask the transitioning workers to create standard operating procedures (SOPs), so the processes are documented for future training needs."
+      ],
+      "answer": "B. Add a cooperation clause into the severance agreements.",
+      "explanation": "A cooperation clause in a severance agreement is a contractual provision that requires the departing employee to cooperate with the employer or the company in various ways, even after their employment has ended. The specific terms of a cooperation clause can vary depending on the agreement, but it often includes transition assistance, confidentiality, and nondisparagement. Option A is incorrect, as holding meetings alone may not guarantee the active cooperation and participation of the exiting employees in training their replacements. Option C is incorrect as this option doesn't directly address ensuring a smoother transition by actively involving exiting employees in training their replacements. Option D is incorrect as the concern is about the cooperation and willingness of the exiting employees to train their replacements.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "b398819ccc0e"
+    },
+    {
+      "id": 29,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "John is the owner of a small bakery in a rural town. He employs a few workers to help him with baking and serving customers. Recently, he heard about the Fair Labor Standards Act and wondered if it applies to his bakery. What should John consider regarding FLSA coverage?",
+      "options": [
+        "A. FLSA covers employers with 20 or more employees, so John's bakery is exempt from its provisions.",
+        "B. FLSA applies to all employers, regardless of the number of employees, so John's bakery is likely covered.",
+        "C. FLSA covers employers with 50 or more employees, so John's bakery is exempt from its provisions.",
+        "D. FLSA applies to employers with 100 or more employees, so John's bakery is exempt."
+      ],
+      "answer": "B. FLSA applies to all employers, regardless of the number of employees, so John's bakery is likely covered.",
+      "explanation": "FLSA applies to employers making more than 500,000 in sales or engaged in interstate commerce (which is practically every company based on legal precedent interpretation), regardless of the number of  employees they have. Even small businesses like John's bakery are generally covered by FLSA. Options A, C, and D are not true.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "a265110605d7"
+    },
+    {
+      "id": 14,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "In an effort to measure employee engagement at a manufacturing company, HR conducted a survey with 250 employees. The survey asked participants to rate their level of engagement on a scale from 1 to 5, with 1 being “Not Engaged” and 5 being “Highly Engaged.” The results were as follows: 60 employees rated their engagement as 5. 120 employees rated their engagement as 4. 40 employees rated their engagement as 3. 20 employees rated their engagement as 2. 10 employees rated their engagement as 1. Calculate the mean engagement level of the employees based on the survey results.",
+      "options": [
+        "A. 2.5.",
+        "B. 3.2.",
+        "C. 3.8.",
+        "D. 4.0."
+      ],
+      "answer": "C. 3.8.",
+      "explanation": "To calculate the mean (average) engagement level, you need to sum the individual ratings and divide by the total number of employees.  The average engagement level is 3.8.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "eb70f9b6d727"
+    },
+    {
+      "id": 32,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "In a leadership development program, which component focuses on helping individuals recognize their strengths, weaknesses, and areas for growth?",
+      "options": [
+        "A. Mentoring.",
+        "B. Self-assessment.",
+        "C. Team-building exercises.",
+        "D. Online courses."
+      ],
+      "answer": "B. Self-assessment.",
+      "explanation": "Self-assessment in a leadership development program helps individuals reflect on their strengths and areas for improvement, which is essential for personal growth and leadership development. Options A, C, and D may play roles in leadership development but do not specifically focus on self-awareness and self-assessment.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "a1f1b7e54881"
+    },
+    {
+      "id": 53,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Fill in the blank: The impact of employee engagement efforts on organizational results is largely .",
+      "options": [
+        "A. Immeasurable.",
+        "B. Indirect.",
+        "C. Subjective.",
+        "D. Objective."
+      ],
+      "answer": "B. Indirect.",
+      "explanation": "The impact of employee engagement efforts on organizational results is often indirect. Employee engagement influences factors such as morale, productivity, retention, and customer satisfaction, which, in turn, affect organizational performance and results. These effects are not always immediately visible but are important for long-term success. Options A and C are incorrect because it is not accurate to say that the impact is immeasurable or subjective. Organizations often use various metrics and assessments to gauge the effects of engagement efforts, even if some aspects are less tangible. Option D is incorrect as employee engagement efforts may lead to objective outcomes, such as increased revenue, reduced turnover, or improved customer satisfaction. However, not all the effects are purely objective, as they may also include subjective elements like employee morale and job satisfaction.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "56d6a50fd0dc"
+    }
+  ],
+  "idx": 4,
+  "answers": [
+    "A. Hold a series of town hall meetings to ask for support.",
+    "B. FLSA applies to all employers, regardless of the number of employees, so John's bakery is likely covered.",
+    "B. 3.2.",
+    "C. Team-building exercises.",
+    "A. Immeasurable."
+  ],
+  "submitted": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "flags": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "confidence": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shuffled_options": [
+    [
+      "A. Hold a series of town hall meetings to ask for support.",
+      "B. Add a cooperation clause into the severance agreements.",
+      "C. Offer stay bonuses.",
+      "D. Ask the transitioning workers to create standard operating procedures (SOPs), so the processes are documented for future training needs."
+    ],
+    [
+      "A. FLSA covers employers with 20 or more employees, so John's bakery is exempt from its provisions.",
+      "B. FLSA applies to all employers, regardless of the number of employees, so John's bakery is likely covered.",
+      "C. FLSA covers employers with 50 or more employees, so John's bakery is exempt from its provisions.",
+      "D. FLSA applies to employers with 100 or more employees, so John's bakery is exempt."
+    ],
+    [
+      "A. 2.5.",
+      "B. 3.2.",
+      "C. 3.8.",
+      "D. 4.0."
+    ],
+    [
+      "A. Mentoring.",
+      "B. Self-assessment.",
+      "C. Team-building exercises.",
+      "D. Online courses."
+    ],
+    [
+      "A. Immeasurable.",
+      "B. Indirect.",
+      "C. Subjective.",
+      "D. Objective."
+    ]
+  ],
+  "quiz_start": 1772390990.2012055,
+  "timer_start": 1772391025.3076673,
+  "time_spent": [
+    18.82344651222229,
+    6.997850179672241,
+    4.901500940322876,
+    4.380685329437256,
+    3.012678384780884
+  ],
+  "radio_choices": {
+    "q_0_choice": "— Select an option —",
+    "q_1_choice": "— Select an option —",
+    "q_2_choice": "— Select an option —",
+    "q_3_choice": "— Select an option —",
+    "q_4_choice": "A. Immeasurable."
+  },
+  "paused": false,
+  "paused_at": null,
+  "save_id": "20260301_234949"
+}

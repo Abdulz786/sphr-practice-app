@@ -1,0 +1,595 @@
+{
+  "version": 4,
+  "saved_at": "2026-03-01T17:31:54.667643+00:00",
+  "user": "Guest",
+  "mode": "Practice",
+  "settings": {
+    "num_q": 20,
+    "sec_per_q": 60,
+    "quiz_time": 3600,
+    "shuffle_options": true,
+    "show_hints": false,
+    "autosave": true,
+    "smooth_timer": true,
+    "refresh_ms": 1000,
+    "mode": "Practice",
+    "show_correct": true,
+    "show_exp": true,
+    "auto_advance": false,
+    "play_sounds": false,
+    "sel_domains": [
+      "HR Information Management, Safety, and Security",
+      "SPHR"
+    ],
+    "sel_subjects": [
+      "HR Information Management, Safety, and Security",
+      "Leadership and Strategy",
+      "Talent Management",
+      "Total Rewards",
+      "Workforce Planning and Talent Acquisition"
+    ],
+    "sel_chapters": []
+  },
+  "current_quiz": [
+    {
+      "id": 8,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "How can corporate learning and development programs assist in fighting corruption on global assignments?",
+      "options": [
+        "A. By providing specialized anti-corruption training for employees going on global assignments.",
+        "B. By mandating company ethics training.",
+        "C. By organizing team-building workshops to enhance employee morale during global assignments.",
+        "D. By implementing strict travel expense policies for employees on global assignments."
+      ],
+      "answer": "A. By providing specialized anti-corruption training for employees going on global assignments.",
+      "explanation": "Providing specialized anti-corruption training equips employees with knowledge and skills to identify, prevent, and report corrupt practices, making it an effective way to combat corruption on global assignments (Option B). Generalized ethics training would not be more effective than specialized training focused on corruption prevention (Option C). Team-building workshops do not directly address corruption concerns on global assignments (Option D). Implementing strict travel expense policies is relevant for financial accountability but not sufficient to combat corruption in all aspects of global assignments.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "02077d9df75a"
+    },
+    {
+      "id": 37,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Rebecca, the HR manager at a software development firm, is responsible for completing Form I-9 for all new hires. She recently hired Ted, an experienced software engineer, and asked him to complete Section 1 of Form I-9 on his first day of work. Ted, however, mistakenly filled out the form using his previous address from a different state, even though he currently resides near the company's headquarters. Rebecca noticed the error when reviewing the form. What is the appropriate course of action for Rebecca to take regarding this mistake on Form I-9?",
+      "options": [
+        "A. Correct the mistake in Section 1 of Form I-9 and have Ted sign and date the corrected section.",
+        "B. Ask Ted to complete a new Form I-9 with the correct information and attach it to the original form.",
+        "C. Keep the incorrect information in Section 1 as it is and make a note of the error in the employee's file.",
+        "D. Request Ted to provide updated documentation to match the incorrect address on the form."
+      ],
+      "answer": "B. Ask Ted to complete a new Form I-9 with the correct information and attach it to the original form.",
+      "explanation": "When there is an error in Section 1 of Form I-9, it is generally best to have the employee complete a new form with the correct information. The new form should be attached to the original form to maintain a clear record of the correction. Correcting the mistake in Section 1 (Option A) is not recommended as it could potentially raise  issues with accuracy and compliance. Option C is not sufficient to rectify the mistake on Form I-9. Option D could lead to further inaccuracies and potential compliance issues.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "5a6b500dec13"
+    },
+    {
+      "id": 32,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "What does the USMCA require regarding minimum wage standards for member countries like the United States and Mexico?",
+      "options": [
+        "A. The USMCA harmonizes minimum wage rates across member countries.",
+        "B. The USMCA establishes uniform minimum wage rates for all industries within member countries.",
+        "C. The USMCA requires each member country to maintain and enforce its own minimum wage laws within its jurisdiction.",
+        "D. The USMCA allows member countries to disregard minimum wage laws for cross-border trade."
+      ],
+      "answer": "C. The USMCA requires each member country to maintain and enforce its own minimum wage laws within its jurisdiction.",
+      "explanation": "The US- Mexico-Canada agreement (USMCA) expects each member country to have laws and regulations that establish and enforce minimum wage standards within their respective territories. It emphasizes that the agreement does not harmonize or establish uniform minimum wage rates across member countries but rather ensures that each country enforces its own minimum wage laws. This approach promotes compliance with minimum wage standards while allowing each country to determine its specific minimum wage rates according to its domestic laws.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "6d1391bc81ec"
+    },
+    {
+      "id": 25,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "How can the composition of cross-functional teams impact employee job satisfaction?",
+      "options": [
+        "A. It has no influence on job satisfaction as long as team members have similar skills.",
+        "B. It can enhance job satisfaction by promoting diversity of perspectives and skills.",
+        "C. It decreases job satisfaction because cross-functional teams are often inefficient.",
+        "D. It affects job satisfaction only if all team members share the same background."
+      ],
+      "answer": "B. It can enhance job satisfaction by promoting diversity of perspectives and skills.",
+      "explanation": "Cross-functional teams that bring together individuals with diverse backgrounds and skills often lead to increased job satisfaction due to the exposure to different perspectives and collaborative learning. Options A, C, and D are incorrect as they do not accurately reflect the impact the composition of teams has on employee engagement.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "ab96cfd0a506"
+    },
+    {
+      "id": 9,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "When conducting a task inventory analysis, which methods can be used to gather data about job tasks and responsibilities? (Choose all that apply.)",
+      "options": [
+        "A. Surveys and questionnaires.",
+        "B. Observations.",
+        "C. Focus groups and brainstorming sessions.",
+        "D. Interviews."
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "All of the listed methods (surveys/questionnaires, observations, focus groups/brainstorming sessions, and interviews) can be used in combination to conduct a comprehensive task inventory analysis. Each method has its strengths and weaknesses, and using multiple methods can provide a more accurate and well-rounded understanding of job tasks and responsibilities.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "690126bc3441"
+    },
+    {
+      "id": 1,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "An organization is grappling with a high employee turnover rate and a lack of skilled employees in critical positions. The senior leadership team is seeking a solution to address this problem. Which of the following options aligns best with solving this organizational problem?",
+      "options": [
+        "A. Outsource recruiting to a specialized firm to target desired talent.",
+        "B. Engage in a hiring campaign to poach talent from competitors.",
+        "C. Launch a comprehensive learning and development program to enhance employee skills and competencies.",
+        "D. Reduce the workforce to cut costs and improve efficiency."
+      ],
+      "answer": "C. Launch a comprehensive learning and development program to enhance employee skills and competencies.",
+      "explanation": "A comprehensive learning and development program aims to enhance the skills and competencies of existing employees, helping to retain them and fill critical positions with skilled internal candidates. It provides a holistic approach to solving both the turnover and skills gap issues. Option A does not directly address the high employee turnover rate or provide a solution to retaining existing employees. Option B does not focus on retaining existing employees or developing their skills and competencies and may not be a long-term solution to the problem. Option D does not address the problem of a lack of skilled employees in critical positions, and it can even exacerbate the turnover issue by causing insecurity among employees.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "e20db3b7e42c"
+    },
+    {
+      "id": 64,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Piazzo Corporation is a large employer with offices in multiple states. It has a diverse workforce and is committed to complying with IRCA's requirements. What is one of the primary responsibilities of Piazzo Corporation under IRCA?",
+      "options": [
+        "A. Piazzo Corporation must conduct immigration status checks on all job applicants.",
+        "B. Piazzo Corporation must report all foreign-born employees to the federal government.",
+        "C. Piazzo Corporation must complete the I-9 Employment Eligibility Verification form for all new hires.",
+        "D. Piazzo Corporation must verify the immigration status of employees' family members."
+      ],
+      "answer": "C. Piazzo Corporation must complete the I-9 Employment Eligibility Verification form for all new hires.",
+      "explanation": "One of the primary responsibilities of employers under the Immigration Reform and Control Act (IRCA) is to complete and retain the I-9 Employment Eligibility Verification form for all new hires. This form is used to verify the identity and employment eligibility of employees.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "7aedf9097f56"
+    },
+    {
+      "id": 50,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "What is a potential drawback of relying solely on quantitative metrics for evaluating leader performance?",
+      "options": [
+        "A. Quantitative metrics provide a subjective assessment of leadership skills.",
+        "B. Quantitative metrics may be too broad to capture all aspects of leadership effectiveness.",
+        "C. Quantitative metrics are universally applicable to all leadership roles.",
+        "D. Quantitative metrics are the most time-consuming method of evaluation."
+      ],
+      "answer": "B. Quantitative metrics may be too broad to capture all aspects of leadership effectiveness.",
+      "explanation": "A potential drawback of relying solely on quantitative metrics for evaluating leader performance is that they may not capture all aspects of leadership effectiveness, such as soft skills and interpersonal relationships. Option A is incorrect because quantitative metrics provide an objective rather than subjective assessment. Option C is incorrect as the breadth and scope of metrics may vary based on leadership roles. Option D is incorrect; quantitative metrics may not necessarily be the most time-consuming method.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "577d894f8051"
+    },
+    {
+      "id": 6,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "What is the primary purpose of an “opt-in” policy in the workplace regarding data collection for employee benefits?",
+      "options": [
+        "A. To automatically enroll employees in benefit programs.",
+        "B. To allow employees to choose whether they want to participate in benefit programs.",
+        "C. To require employees to participate in all available benefit programs.",
+        "D. To provide benefits to employees without their consent."
+      ],
+      "answer": "B. To allow employees to choose whether they want to participate in benefit programs.",
+      "explanation": "An “opt-in” policy gives employees the choice to participate in benefit programs voluntarily. Option A is incorrect because it implies  automatic enrollment, which is associated with “opt-out” policies. Option C is incorrect because it enforces participation, which is contrary to the purpose of an “opt-in” policy. Option D is incorrect because it suggests benefits are provided without consent, which is not the case with “opt-in” policies.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "a1965dfcbc77"
+    },
+    {
+      "id": 42,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "The director of HR at a large multinational corporation is tasked with designing a new compensation system. The corporation operates in multiple countries and regions, each with its own unique labor laws, cultural norms, and economic conditions. Additionally, the organization needs to ensure that its compensation packages remain competitive in the global talent market while also managing costs effectively. The director of HR decides to conduct a comprehensive analysis of market salary surveys, internal pay equity considerations, and cost projections before finalizing the new compensation system. They also take into account the cultural nuances and legal requirements of the various locations where the corporation operates. Moreover, they collaborate with HR teams from different regions to gather valuable insights and input into the compensation design process. What competencies is the director of HR demonstrating?",
+      "options": [
+        "A. Employee Relations and Diversity and Inclusion.",
+        "B. Global Mindset and Analytical Aptitude.",
+        "C. Talent Acquisition and Training and Development.",
+        "D. Benefits Administration and Performance Management."
+      ],
+      "answer": "B. Global Mindset and Analytical Aptitude.",
+      "explanation": "The director is considering the diverse global context in which the multinational corporation operates, including differences in labor laws, cultural norms, and economic conditions. They are conducting a comprehensive analysis of market salary surveys, internal pay equity considerations, and cost projections. This demonstrates their ability to use data-driven insights to make informed decisions about compensation structures, balancing competitiveness, and cost- effectiveness.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "eb14ef480b4a"
+    },
+    {
+      "id": 8,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "What is a common barrier to personal integrity for HR professionals and leaders in the workplace?",
+      "options": [
+        "A. Prioritizing the interests of shareholders over ethical considerations.",
+        "B. Fearing negative consequences as a result of being honest.",
+        "C. Avoiding legal responsibilities to protect personal interests.",
+        "D. Having a rigid, inflexible approach to ethical dilemmas."
+      ],
+      "answer": "B. Fearing negative consequences as a result of being honest.",
+      "explanation": "A common barrier to personal integrity for HR professionals and leaders in the workplace is the fear that honesty and transparency may lead to negative consequences. This fear can deter individuals from speaking up about ethical concerns, admitting mistakes, or reporting wrongdoing. Personal integrity often involves the courage to uphold ethical principles even when it involves facing challenges or potential backlash. Option A is incorrect as this option represents a specific ethical dilemma rather than a barrier to personal integrity as a whole. Option C is incorrect as avoiding legal responsibilities to protect personal interests is a specific issue related to negative consequences mentioned in the correct answer. Option D is incorrect because a rigid, inflexible approach to ethical dilemmas is not a barrier to personal integrity, and while it may not be appropriate in every circumstance, it is likely to support ethical outcomes as a whole.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "e7c1f1735833"
+    },
+    {
+      "id": 39,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "What is the primary difference between sustainability and social responsibility in the context of corporate practices?",
+      "options": [
+        "A. Sustainability primarily focuses on financial profitability, while social responsibility prioritizes environmental conservation.",
+        "B. Sustainability centers on long-term environmental impact, while social responsibility is concerned with philanthropic initiatives.",
+        "C. Sustainability encompasses environmental and economic considerations, while social responsibility extends to ethical treatment of employees and communities.",
+        "D. Sustainability is exclusively related to product quality, while social responsibility pertains to customer satisfaction."
+      ],
+      "answer": "C. Sustainability encompasses environmental and economic considerations, while social responsibility extends to ethical treatment of employees and communities.",
+      "explanation": "Sustainability is a broader concept that involves considerations related to environmental preservation and economic viability. It emphasizes the responsible use of resources, reducing environmental impact, and ensuring the long-term viability of business operations. Social responsibility extends beyond environmental and economic aspects to include ethical treatment of employees, support for communities, and responsible engagement with society at large. Option A is incorrect as sustainability is not just about financial profitability; it also includes environmental and social dimensions. Option B is incorrect because social responsibility goes beyond philanthropic initiatives to include the broader considerations of all stakeholders including the communities where work is performed, the environment, the customers, and the employees. Option D is incorrect because sustainability is not exclusively related to product quality or customer service; it encompasses broader aspects such as environmental and economic considerations.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "6f982d0e558c"
+    },
+    {
+      "id": 33,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "A company is undergoing a major organizational change, and employees have concerns about the process. What type of feedback program should the company implement to effectively address this need?",
+      "options": [
+        "A. Focus groups.",
+        "B. An informal team meeting.",
+        "C. A suggestion box.",
+        "D. A 360-degree feedback program."
+      ],
+      "answer": "A. Focus groups.",
+      "explanation": "Any organizational intervention will require varying degrees of change management techniques. When the change is major, as suggested in the question, multiple focus groups are the most effective method to gather feedback that is meaningful enough to inform decisions. Option C is limited in its ability to identify the scope of any concerns. The effectiveness of Option B can vary based on the facilitation and participation, and feedback programs (Option D) are used for performance evaluations, not to gather feedback on organizational change interventions.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "53f7c5081758"
+    },
+    {
+      "id": 31,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "How should an HR professional handle compensation for hours worked above and beyond a standard workweek in a country that does not adhere to the FLSA of the United States?",
+      "options": [
+        "A. Apply the FLSA regulations to ensure consistency in overtime pay calculations.",
+        "B. Comply with the labor laws and regulations of the specific country in which the employees work.",
+        "C. Determine overtime pay based on the policies and guidelines of the parent company, regardless of local laws.",
+        "D. Disregard overtime pay as it is not a legal requirement in countries outside the United States."
+      ],
+      "answer": "B. Comply with the labor laws and regulations of the specific country in which the employees work.",
+      "explanation": "When dealing with overtime pay, HR professionals should always adhere to the labor laws and regulations of the country where the employees are located. Overtime regulations vary widely from one country to another, so it is crucial to follow local laws to ensure legal compliance.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "e7e2b9788c6b"
+    },
+    {
+      "id": 22,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "In the context of management barriers to effective risk management techniques, which HR competency is particularly important for navigating a political organization and overcoming resistance to risk management initiatives?",
+      "options": [
+        "A. Technical proficiency in data analysis and risk assessment.",
+        "B. Proficiency in legal compliance and regulatory knowledge.",
+        "C. Interpersonal skills and stakeholder engagement.",
+        "D. Strategic planning and financial acumen."
+      ],
+      "answer": "C. Interpersonal skills and stakeholder engagement.",
+      "explanation": "Interpersonal skills and stakeholder engagement are crucial HR competencies for navigating a political organization when it comes to risk management. Effective risk management often involves convincing stakeholders, including senior management and employees, to buy into and support risk mitigation initiatives. Building relationships, communicating effectively, and engaging stakeholders can help overcome resistance and foster a culture of risk awareness. Options A, B, and D do not specifically address the management  barriers associated with navigating a political organization and overcoming resistance to risk management initiatives, which requires more of an interpersonal and engagement-focused approach.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "15e4209da672"
+    },
+    {
+      "id": 66,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Which of the following methods is commonly used to measure organizational health?",
+      "options": [
+        "A. Employee satisfaction surveys.",
+        "B. Financial performance analysis.",
+        "C. Customer feedback evaluation.",
+        "D. Market share comparison."
+      ],
+      "answer": "A. Employee satisfaction surveys.",
+      "explanation": "Employee satisfaction surveys are commonly used to measure organizational health because they provide insights into employees' perceptions, attitudes, and engagement levels within the organization. By gathering feedback on various aspects such as workplace culture, leadership effectiveness, job satisfaction, and opportunities for growth, employee satisfaction surveys help assess the overall health and well- being of the organization's workforce. Positive survey results indicate a healthy organizational culture, strong employee morale, and effective leadership, while negative feedback may highlight areas for improvement and intervention to enhance organizational health. Options B, C, and D are all examples of organizational performance and strategic results, reflecting more of the success at the decision- sciences than true organizational health nor do they provide a holistic view of organizational health, as they do not consider internal factors such as employee morale, teamwork, or leadership effectiveness.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "5dfb67d48c68"
+    },
+    {
+      "id": 36,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "According to the Kubler-Ross change curve, what role does empathy and communication play in embedding the change within an organization?",
+      "options": [
+        "A. Empathy and communication are secondary to other employee needs when embedding change.",
+        "B. Empathy and communication are the most important factors to unfreeze the current state.",
+        "C. Without empathy and communication, the change is likely to fail.",
+        "D. Without empathy and change, employees will feel left out of the transformation."
+      ],
+      "answer": "D. Without empathy and change, employees will feel left out of the transformation.",
+      "explanation": "The Kubler-Ross change curve depicts the emotional stages individuals experience when confronted with significant change, including denial, resistance, exploration, acceptance, and integration, similar to the stages of grief. Effective communication, coupled with empathy, helps address employees' concerns, alleviate fears, and build trust, ultimately fostering a sense of inclusion and involvement in the transformation. Without empathy and communication, employees are more likely to feel left out and disconnected from the change effort, impeding its successful embedding within the organization.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "537b3385155f"
+    },
+    {
+      "id": 7,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Amidst a period of significant growth and restructuring, a multinational corporation seeks to enhance organizational clarity and communication. Which of the following best represents the primary purpose of implementing an organization chart?",
+      "options": [
+        "A. The organization chart is primarily utilized to streamline employee performance evaluations and promotions.",
+        "B. The organization chart serves as a visual representation of the company's hierarchy and reporting relationships, aiding in clarifying roles and responsibilities.",
+        "C. The organization chart is primarily employed to track inventory levels and optimize supply chain management.",
+        "D. The organization chart is utilized to enforce strict adherence to corporate policies and procedures across all departments."
+      ],
+      "answer": "B. The organization chart serves as a visual representation of the company's hierarchy and reporting relationships, aiding in clarifying roles and responsibilities.",
+      "explanation": "The primary purpose of implementing an organization chart is to provide a clear overview of the company's structure, including reporting relationships, hierarchies, and departmental divisions. By visually depicting how different roles and departments are interconnected within the organization, the organization chart helps employees understand their position in the company's structure and to whom they report. This clarity fosters better communication, coordination, and alignment of efforts across the organization, particularly during periods of growth and restructuring.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "a818eb5726cb"
+    },
+    {
+      "id": 58,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "Fill in the blank: In Fiedler's contingency theory of leadership, leaders change conditions to be more .",
+      "options": [
+        "A. Productive.",
+        "B. Favorable.",
+        "C. Compliant.",
+        "D. Diverse."
+      ],
+      "answer": "B. Favorable.",
+      "explanation": "In Fiedler's contingency theory of leadership, the goal is for leaders to change conditions to be more favorable. The theory notes that  effective leadership depends on the match between a leader's preferred leadership style, either task-oriented or relationship-oriented, and the favorability of the situational context in which they operate.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "12f273639741"
+    },
+    {
+      "id": 56,
+      "subject": "HR Information Management, Safety, and Security",
+      "question": "As the HR manager responsible for negotiating job offers with potential candidates, you are aware of the various forms of bias that can influence these negotiations. Which form of bias should you be most cautious about to avoid unintentional discrimination?",
+      "options": [
+        "A. Confirmation bias, where you tend to favor candidates who share your personal interests.",
+        "B. Affinity bias, which involves favoring candidates who share a similar background or characteristics with you.",
+        "C. Outcome bias, where you prioritize candidates based on their previous job outcomes.",
+        "D. Anchoring bias, where you fixate on the initial salary expectation a candidate provides."
+      ],
+      "answer": "B. Affinity bias, which involves favoring candidates who share a similar background or characteristics with you.",
+      "explanation": "Affinity bias involves favoring candidates who share similar backgrounds, characteristics, or traits with you, potentially leading to discrimination and a lack of diversity in hiring.  Confirmation bias (Option A) can lead to favoring candidates who align with your personal interests, but it is less likely to be a prevalent form of bias in job offer negotiations compared to other biases (Option C). Outcome bias, which prioritizes candidates based on their previous job outcomes, may not necessarily result in discrimination but could lead to overlooking candidates with potential (Option D). Anchoring bias, where you fixate on the initial salary expectation a candidate provides, can impact salary negotiations but is generally less associated with unlawful discrimination.  ---",
+      "domain": "HR Information Management, Safety, and Security",
+      "uid": "acdd1c65ce10"
+    }
+  ],
+  "idx": 0,
+  "answers": [
+    "B. By mandating company ethics training.",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "submitted": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "flags": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "confidence": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shuffled_options": [
+    [
+      "D. By implementing strict travel expense policies for employees on global assignments.",
+      "B. By mandating company ethics training.",
+      "C. By organizing team-building workshops to enhance employee morale during global assignments.",
+      "A. By providing specialized anti-corruption training for employees going on global assignments."
+    ],
+    [
+      "B. Ask Ted to complete a new Form I-9 with the correct information and attach it to the original form.",
+      "C. Keep the incorrect information in Section 1 as it is and make a note of the error in the employee's file.",
+      "D. Request Ted to provide updated documentation to match the incorrect address on the form.",
+      "A. Correct the mistake in Section 1 of Form I-9 and have Ted sign and date the corrected section."
+    ],
+    [
+      "D. The USMCA allows member countries to disregard minimum wage laws for cross-border trade.",
+      "B. The USMCA establishes uniform minimum wage rates for all industries within member countries.",
+      "C. The USMCA requires each member country to maintain and enforce its own minimum wage laws within its jurisdiction.",
+      "A. The USMCA harmonizes minimum wage rates across member countries."
+    ],
+    [
+      "B. It can enhance job satisfaction by promoting diversity of perspectives and skills.",
+      "A. It has no influence on job satisfaction as long as team members have similar skills.",
+      "D. It affects job satisfaction only if all team members share the same background.",
+      "C. It decreases job satisfaction because cross-functional teams are often inefficient."
+    ],
+    [
+      "D. Interviews.",
+      "B. Observations.",
+      "C. Focus groups and brainstorming sessions.",
+      "A. Surveys and questionnaires."
+    ],
+    [
+      "D. Reduce the workforce to cut costs and improve efficiency.",
+      "A. Outsource recruiting to a specialized firm to target desired talent.",
+      "B. Engage in a hiring campaign to poach talent from competitors.",
+      "C. Launch a comprehensive learning and development program to enhance employee skills and competencies."
+    ],
+    [
+      "B. Piazzo Corporation must report all foreign-born employees to the federal government.",
+      "C. Piazzo Corporation must complete the I-9 Employment Eligibility Verification form for all new hires.",
+      "D. Piazzo Corporation must verify the immigration status of employees' family members.",
+      "A. Piazzo Corporation must conduct immigration status checks on all job applicants."
+    ],
+    [
+      "B. Quantitative metrics may be too broad to capture all aspects of leadership effectiveness.",
+      "D. Quantitative metrics are the most time-consuming method of evaluation.",
+      "A. Quantitative metrics provide a subjective assessment of leadership skills.",
+      "C. Quantitative metrics are universally applicable to all leadership roles."
+    ],
+    [
+      "A. To automatically enroll employees in benefit programs.",
+      "B. To allow employees to choose whether they want to participate in benefit programs.",
+      "C. To require employees to participate in all available benefit programs.",
+      "D. To provide benefits to employees without their consent."
+    ],
+    [
+      "D. Benefits Administration and Performance Management.",
+      "C. Talent Acquisition and Training and Development.",
+      "A. Employee Relations and Diversity and Inclusion.",
+      "B. Global Mindset and Analytical Aptitude."
+    ],
+    [
+      "B. Fearing negative consequences as a result of being honest.",
+      "A. Prioritizing the interests of shareholders over ethical considerations.",
+      "C. Avoiding legal responsibilities to protect personal interests.",
+      "D. Having a rigid, inflexible approach to ethical dilemmas."
+    ],
+    [
+      "A. Sustainability primarily focuses on financial profitability, while social responsibility prioritizes environmental conservation.",
+      "C. Sustainability encompasses environmental and economic considerations, while social responsibility extends to ethical treatment of employees and communities.",
+      "D. Sustainability is exclusively related to product quality, while social responsibility pertains to customer satisfaction.",
+      "B. Sustainability centers on long-term environmental impact, while social responsibility is concerned with philanthropic initiatives."
+    ],
+    [
+      "A. Focus groups.",
+      "C. A suggestion box.",
+      "B. An informal team meeting.",
+      "D. A 360-degree feedback program."
+    ],
+    [
+      "B. Comply with the labor laws and regulations of the specific country in which the employees work.",
+      "A. Apply the FLSA regulations to ensure consistency in overtime pay calculations.",
+      "D. Disregard overtime pay as it is not a legal requirement in countries outside the United States.",
+      "C. Determine overtime pay based on the policies and guidelines of the parent company, regardless of local laws."
+    ],
+    [
+      "B. Proficiency in legal compliance and regulatory knowledge.",
+      "D. Strategic planning and financial acumen.",
+      "A. Technical proficiency in data analysis and risk assessment.",
+      "C. Interpersonal skills and stakeholder engagement."
+    ],
+    [
+      "D. Market share comparison.",
+      "C. Customer feedback evaluation.",
+      "A. Employee satisfaction surveys.",
+      "B. Financial performance analysis."
+    ],
+    [
+      "A. Empathy and communication are secondary to other employee needs when embedding change.",
+      "B. Empathy and communication are the most important factors to unfreeze the current state.",
+      "D. Without empathy and change, employees will feel left out of the transformation.",
+      "C. Without empathy and communication, the change is likely to fail."
+    ],
+    [
+      "B. The organization chart serves as a visual representation of the company's hierarchy and reporting relationships, aiding in clarifying roles and responsibilities.",
+      "D. The organization chart is utilized to enforce strict adherence to corporate policies and procedures across all departments.",
+      "C. The organization chart is primarily employed to track inventory levels and optimize supply chain management.",
+      "A. The organization chart is primarily utilized to streamline employee performance evaluations and promotions."
+    ],
+    [
+      "C. Compliant.",
+      "D. Diverse.",
+      "A. Productive.",
+      "B. Favorable."
+    ],
+    [
+      "C. Outcome bias, where you prioritize candidates based on their previous job outcomes.",
+      "B. Affinity bias, which involves favoring candidates who share a similar background or characteristics with you.",
+      "D. Anchoring bias, where you fixate on the initial salary expectation a candidate provides.",
+      "A. Confirmation bias, where you tend to favor candidates who share your personal interests."
+    ]
+  ],
+  "quiz_start": 1772386307.082834,
+  "timer_start": 1772386307.08332,
+  "time_spent": [
+    7.578393936157227,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "radio_choices": {
+    "q_0_choice": "B. By mandating company ethics training.",
+    "q_1_choice": "— Select an option —",
+    "q_2_choice": "— Select an option —",
+    "q_3_choice": "— Select an option —",
+    "q_4_choice": "— Select an option —",
+    "q_5_choice": "— Select an option —",
+    "q_6_choice": "— Select an option —",
+    "q_7_choice": "— Select an option —",
+    "q_8_choice": "— Select an option —",
+    "q_9_choice": "— Select an option —",
+    "q_10_choice": "— Select an option —",
+    "q_11_choice": "— Select an option —",
+    "q_12_choice": "— Select an option —",
+    "q_13_choice": "— Select an option —",
+    "q_14_choice": "— Select an option —",
+    "q_15_choice": "— Select an option —",
+    "q_16_choice": "— Select an option —",
+    "q_17_choice": "— Select an option —",
+    "q_18_choice": "— Select an option —",
+    "q_19_choice": "— Select an option —"
+  },
+  "paused": false,
+  "paused_at": null,
+  "save_id": "20260301_223154"
+}

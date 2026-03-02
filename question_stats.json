@@ -1,0 +1,576 @@
+{
+  "4f4b23df81e2": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T18:59:26.913770+00:00",
+    "avg_time": 9.86
+  },
+  "e242723e21bf": {
+    "seen": 1,
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": "2026-02-28T18:59:26.913830+00:00",
+    "avg_time": 2.44
+  },
+  "9b742fd20e80": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T18:59:26.913861+00:00",
+    "avg_time": 2.85
+  },
+  "617e1241cb0a": {
+    "seen": 1,
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": "2026-02-28T18:59:26.913888+00:00",
+    "avg_time": 4.87
+  },
+  "e904b793574d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T18:59:26.913914+00:00",
+    "avg_time": 4.78
+  },
+  "4044e1c14323": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T19:28:35.053411+00:00",
+    "avg_time": 6.02
+  },
+  "ebbe036ae672": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T19:28:35.053468+00:00",
+    "avg_time": 2.53
+  },
+  "e8d51c54180a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T19:28:35.053499+00:00",
+    "avg_time": 3.32
+  },
+  "a8e7534fe6d3": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-02-28T19:28:35.053527+00:00",
+    "avg_time": 4.91
+  },
+  "f824202797b2": {
+    "seen": 1,
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": "2026-02-28T19:28:35.053555+00:00",
+    "avg_time": 4.35
+  },
+  "285ee0ee5337": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.279905+00:00",
+    "avg_time": 13.82
+  },
+  "4dfef4da9824": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.279958+00:00",
+    "avg_time": 0.0
+  },
+  "b5554ec04870": {
+    "seen": 2,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T19:25:58.045378+00:00",
+    "avg_time": 0.0
+  },
+  "da35c35f11dc": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280012+00:00",
+    "avg_time": 0.0
+  },
+  "02eaf58c50a8": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280036+00:00",
+    "avg_time": 0.0
+  },
+  "a4994a4beeb8": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280060+00:00",
+    "avg_time": 0.0
+  },
+  "7c8f66396398": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280084+00:00",
+    "avg_time": 0.0
+  },
+  "3315a63e4f49": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280105+00:00",
+    "avg_time": 0.0
+  },
+  "c11ab90018a1": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280128+00:00",
+    "avg_time": 0.0
+  },
+  "5440f97f6647": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280151+00:00",
+    "avg_time": 0.0
+  },
+  "30de978b987a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280174+00:00",
+    "avg_time": 0.0
+  },
+  "48a76d061ec9": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280200+00:00",
+    "avg_time": 0.0
+  },
+  "a818eb5726cb": {
+    "seen": 2,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056616+00:00",
+    "avg_time": 0.0
+  },
+  "a9e26eadbc91": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280248+00:00",
+    "avg_time": 0.0
+  },
+  "01232259876b": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280271+00:00",
+    "avg_time": 0.0
+  },
+  "8aca84c7f89f": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280294+00:00",
+    "avg_time": 0.0
+  },
+  "a4a70c447f28": {
+    "seen": 2,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589242+00:00",
+    "avg_time": 0.0
+  },
+  "cc5b216743bb": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280339+00:00",
+    "avg_time": 0.0
+  },
+  "f33b841fb42c": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280362+00:00",
+    "avg_time": 0.0
+  },
+  "89381befee12": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:26:10.280385+00:00",
+    "avg_time": 0.0
+  },
+  "97d35d1bd51d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589030+00:00",
+    "avg_time": 3.44
+  },
+  "5680a6796c9d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589064+00:00",
+    "avg_time": 0.0
+  },
+  "d631513a5492": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589078+00:00",
+    "avg_time": 0.0
+  },
+  "d4c44bc204f8": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589090+00:00",
+    "avg_time": 0.0
+  },
+  "8b17e208849d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589102+00:00",
+    "avg_time": 0.0
+  },
+  "e4fbbdc943c5": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589113+00:00",
+    "avg_time": 0.0
+  },
+  "dea573f6bffd": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589125+00:00",
+    "avg_time": 0.0
+  },
+  "317db80f7b67": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589137+00:00",
+    "avg_time": 0.0
+  },
+  "8d55352162e6": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589149+00:00",
+    "avg_time": 0.0
+  },
+  "8f0405b98ba2": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589160+00:00",
+    "avg_time": 0.0
+  },
+  "6b9b1b5d7a3b": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589171+00:00",
+    "avg_time": 0.0
+  },
+  "11faa98a8e8a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589182+00:00",
+    "avg_time": 0.0
+  },
+  "68322d7b7df9": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589196+00:00",
+    "avg_time": 0.0
+  },
+  "54babb58f5b2": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589207+00:00",
+    "avg_time": 0.0
+  },
+  "e92efd6b7d7d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589219+00:00",
+    "avg_time": 0.0
+  },
+  "3c4ce727b458": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589230+00:00",
+    "avg_time": 0.0
+  },
+  "b76a2a223775": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589254+00:00",
+    "avg_time": 0.0
+  },
+  "3c285ce214a2": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589266+00:00",
+    "avg_time": 0.0
+  },
+  "7609b60357a8": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:27:17.589277+00:00",
+    "avg_time": 0.0
+  },
+  "02077d9df75a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-01T17:32:00.056183+00:00",
+    "avg_time": 12.93
+  },
+  "5a6b500dec13": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056236+00:00",
+    "avg_time": 0.0
+  },
+  "6d1391bc81ec": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056260+00:00",
+    "avg_time": 0.0
+  },
+  "ab96cfd0a506": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056280+00:00",
+    "avg_time": 0.0
+  },
+  "690126bc3441": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056298+00:00",
+    "avg_time": 0.0
+  },
+  "e20db3b7e42c": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056315+00:00",
+    "avg_time": 0.0
+  },
+  "7aedf9097f56": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056333+00:00",
+    "avg_time": 0.0
+  },
+  "577d894f8051": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056350+00:00",
+    "avg_time": 0.0
+  },
+  "a1965dfcbc77": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056368+00:00",
+    "avg_time": 0.0
+  },
+  "eb14ef480b4a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056386+00:00",
+    "avg_time": 0.0
+  },
+  "e7c1f1735833": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056464+00:00",
+    "avg_time": 0.0
+  },
+  "6f982d0e558c": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056493+00:00",
+    "avg_time": 0.0
+  },
+  "53f7c5081758": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056514+00:00",
+    "avg_time": 0.0
+  },
+  "e7e2b9788c6b": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056535+00:00",
+    "avg_time": 0.0
+  },
+  "15e4209da672": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056555+00:00",
+    "avg_time": 0.0
+  },
+  "5dfb67d48c68": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056575+00:00",
+    "avg_time": 0.0
+  },
+  "537b3385155f": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056595+00:00",
+    "avg_time": 0.0
+  },
+  "12f273639741": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056636+00:00",
+    "avg_time": 0.0
+  },
+  "acdd1c65ce10": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T17:32:00.056655+00:00",
+    "avg_time": 0.0
+  },
+  "b398819ccc0e": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-01T18:50:45.114232+00:00",
+    "avg_time": 18.82
+  },
+  "a265110605d7": {
+    "seen": 1,
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": "2026-03-01T18:50:45.114289+00:00",
+    "avg_time": 7.0
+  },
+  "eb70f9b6d727": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-01T18:50:45.114316+00:00",
+    "avg_time": 4.9
+  },
+  "a1f1b7e54881": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-01T18:50:45.114340+00:00",
+    "avg_time": 4.38
+  },
+  "56d6a50fd0dc": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-01T18:50:45.114361+00:00",
+    "avg_time": 19.79
+  },
+  "c8e201c60ec2": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T19:25:58.045265+00:00",
+    "avg_time": 67.17
+  },
+  "6bff05812998": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T19:25:58.045330+00:00",
+    "avg_time": 0.0
+  },
+  "364b28d7b61a": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T19:25:58.045356+00:00",
+    "avg_time": 0.0
+  },
+  "0d3992f20ba4": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-01T19:25:58.045399+00:00",
+    "avg_time": 0.0
+  },
+  "5c4120b6af1e": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 1,
+    "last_seen": "2026-03-02T15:59:22.663365+00:00",
+    "avg_time": 46.59
+  },
+  "664229349cf4": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-02T15:59:22.663426+00:00",
+    "avg_time": 0.0
+  },
+  "8fb1cd44526c": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-02T15:59:22.663457+00:00",
+    "avg_time": 0.0
+  },
+  "75a75e3be5ea": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-02T15:59:22.663481+00:00",
+    "avg_time": 0.0
+  },
+  "67da56323f1d": {
+    "seen": 1,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen": "2026-03-02T15:59:22.663504+00:00",
+    "avg_time": 0.0
+  }
+}
